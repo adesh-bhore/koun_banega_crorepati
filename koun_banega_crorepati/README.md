@@ -1,2 +1,2 @@
-#QUIZ GAME - KOUN BANEGA CROREPATI
+# QUIZ GAME - KOUN BANEGA CROREPATI
 <br> <b>Author - Adesh Bhore </b>
